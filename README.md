@@ -16,3 +16,7 @@ Foi utilizado para construir a apresentação o [Marp](https://marpit.marp.app/d
 
 Para utilizar o Marp será necessário ter uma estensão no Visual Studio Code: 
 * [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
+  
+# Apresentação
+
+Para ter acesso ao pdf da apresentação clique [aqui](Git&Github.pdf)
