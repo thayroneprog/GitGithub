@@ -31,14 +31,28 @@ Compartilhando o seu código.
 ![bg fit](image/branch-1.png)
 
 ---
+## Nomenclaturas 
+* git
+* commit
+* repositório
+* github
+* clonagem
+* push & pull
+* issues
+* pull requests 
+* branchs
+
+---
+
+---
 # Prática
 ---
 # Obrigado !!!
 
 ##### Links e contato:
 * thayrone.dev@gmail.com
-* https://github.com/thayroneprog
-* https://www.linkedin.com/in/thayronemarques/
+* [GitHub](https://github.com/thayroneprog)
+* [Linkedin](https://www.linkedin.com/in/thayronemarques/)
 
 
 
