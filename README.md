@@ -20,3 +20,8 @@ Para utilizar o Marp será necessário ter uma estensão no Visual Studio Code:
 # Apresentação
 
 Para ter acesso ao pdf da apresentação clique [aqui](Git&Github.pdf)
+
+##### Links e contato:
+* thayrone.dev@gmail.com
+* [GitHub](https://github.com/thayroneprog)
+* [Linkedin](https://www.linkedin.com/in/thayronemarques/)
